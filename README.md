@@ -39,3 +39,23 @@ Install the following NuGet package:
 
 ```text
 AForge.Video.DirectShow
+
+## Project Workflow
+
+Upload or Capture Photo
+        ↓
+Enter Personal Details
+        ↓
+Submit Form
+        ↓
+Print Preview
+        ↓
+Save as PDF
+
+## Output
+
+The application allows users to complete a registration form, capture or upload a photo, view the entered details, and save the final registration information as a PDF.
+
+## Author
+
+S. Dhivyaharini
