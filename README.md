@@ -33,6 +33,7 @@ A C# Windows Forms application with photo upload, live camera capture, personal 
 5. Press `F5` to run the application.
 6. Allow camera permission in Windows settings.
 
+
 ## Camera Package
 
 Install the following NuGet package:
@@ -40,17 +41,6 @@ Install the following NuGet package:
 ```text
 AForge.Video.DirectShow
 
-## Project Workflow
-
-Upload or Capture Photo
-        ↓
-Enter Personal Details
-        ↓
-Submit Form
-        ↓
-Print Preview
-        ↓
-Save as PDF
 
 ## Output
 
