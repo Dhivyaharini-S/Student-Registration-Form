@@ -1,0 +1,17 @@
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.csproj.AssemblyReference.cache
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.Form1.resources
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.Properties.Resources.resources
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.csproj.GenerateResource.cache
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.csproj.CoreCompileInputs.cache
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\FormBrowse.exe.config
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\FormBrowse.exe
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\FormBrowse.pdb
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.exe
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.pdb
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\AForge.dll
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\AForge.Video.dll
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\AForge.xml
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\AForge.Video.xml
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ganes\source\repos\FormBrowse\FormBrowse\obj\Debug\FormBrowse.csproj.Up2Date
